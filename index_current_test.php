@@ -161,10 +161,10 @@
         <!--<div class="style7">Velkommen til 4x4norway.no!</div>-->
         <center>
         
-<a href="http://i1134.photobucket.com/albums/m614/4x4norway/ForumPhotos/FORUMFOLDER3/943683_10151587845935918_427263457_n1-1.jpg">                   <span style="text-decoration:none;color:black;"><b>Wolfroad Rena 5<dfn class="dictionary-of-numbers">-9 Juni </dfn>2014</b></span><br>
+<a href="https://docs.google.com/forms/d/1J8Vl5In5p1YB_SLEUQX6nXCvyO6kPKJMuhGe_9fycQ4/viewform">                   <span style="text-decoration:none;color:black;"><b>Wolfroad Rena 5<dfn class="dictionary-of-numbers">-9 Juni </dfn>2014</b></span><br>
        
 
-        <img onload="javascript:adjustRatio(this);" width="100%" height="auto" src="https://scontent-a-fra.xx.fbcdn.net/hphotos-prn1/v/t1.0-9/10341533_10152113…3321039070754955_n.jpg?oh=24f96bb7daf14b123de9e052d6cd9420&amp;oe=54030612"></a>
+        <img onload="javascript:adjustRatio(this);" width="100%" height="auto" src="httpshttps://cdn.mediacru.sh/t5cIdi_dOJNN.jpg"></a>
         <br>
 
         <br>
