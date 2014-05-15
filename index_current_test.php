@@ -1,7 +1,5 @@
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
+<html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>4x4norway.no</title>
 <meta name="uni_char" content="???"> 
@@ -11,14 +9,14 @@
 <meta name="Author" content="Ronni BB">
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body background="images/bg_1.jpg">
+<body background="images/bg_1.jpg" style="zoom: 1;">
 <script type="text/javascript">
 //document.getElementById('').style.visibility='visible';
 </script>
 
 <br><br>
 <table align="center" width="740" cellspacing="0" cellpadding="0">
-  <tr>
+  <tbody><tr>
    <td><img src="images/spacer.gif" width="298" height="1" border="0" alt=""></td>
    <td><img src="images/spacer.gif" width="35" height="1" border="0" alt=""></td>
    <td><img src="images/spacer.gif" width="14" height="1" border="0" alt=""></td>
@@ -38,7 +36,7 @@
   </tr>
   <tr>
    <td rowspan="3"><img name="images/topimage_r2_c1" src="images/topimage_r2_c1.gif" width="298" height="17" border="0" alt=""></td>
-   <td rowspan="2"><a href="index.html" onMouseOut="MM_swapImgRestore();"     onMouseOver="MM_swapImage('images/topimage_r2_c2','','images/topimage_r2_c2_f2.gif',1);"><img name="images/topimage_r2_c2" src="images/topimage_r2_c2.gif" width="35"         height="14" border="0" alt="Hjem"></a></td>
+   <td rowspan="2"><a href="index.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('images/topimage_r2_c2','','images/topimage_r2_c2_f2.gif',1);"><img name="images/topimage_r2_c2" src="images/topimage_r2_c2.gif" width="35" height="14" border="0" alt="Hjem"></a></td>
    <td rowspan="3"><img name="images/topimage_r2_c3" src="images/topimage_r2_c3.gif" width="14" height="17" border="0" alt=""></td>
    <td><a href="om_oss.html"><img name="images/topimage_r2_c4" src="images/topimage_r2_c4.gif" width="34" height="13" border="0" alt="Om oss"></a></td>
    <td rowspan="3"><img name="images/topimage_r2_c5" src="images/topimage_r2_c5.gif" width="8" height="17" border="0" alt=""></td>
@@ -65,20 +63,20 @@
    <td><img name="images/topimage_r4_c2" src="images/topimage_r4_c2.gif" width="35" height="3" border="0" alt=""></td>
    <td><img src="images/spacer.gif" width="1" height="3" border="0" alt=""></td>
   </tr>
-</table>
+</tbody></table>
 
 
 <table align="center" width="740" cellspacing="0" cellpadding="0" class="table1">
-<tr>
+<tbody><tr>
 <td align="center" bgcolor="#424E5B"></td>
 </tr>
-</table>
+</tbody></table>
 
 
-<table align="center" height=100 width="740" cellspacing="0" border="0" cellpadding="0" class="table2">
-   <tr>
+<center></center><table align="center" height="100" width="740" cellspacing="0" border="0" cellpadding="0" class="table2">
+   <tbody><tr>
    
-         <center><td width="241" style="background-image:url(images/sidediv.jpg)"><center>
+         <td width="241" style="background-image:url(images/sidediv.jpg)"><center>
 <img src="images/home_icon.jpg" alt=""><a href="index.html" class="menulink" alt="Hjem"> Hjem</a>
          
         <img src="images/about_icon.jpg" alt=""><a href="Linker.html" class="menulink" alt="Linker"> Linker</a>
@@ -88,19 +86,19 @@
         <br>
 <img src="images/guestbook_icon.jpg" alt=""><a href="forsikring.html" class="menulink" alt="forsikring">forsikring</a>
 
-            <td align="right" width="499"> <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="498" height="98" id="right_side" align="middle">
-<param name="allowScriptAccess" value="sameDomain" />
-<param name="movie" value="images/right_side.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="images/right_side.swf" quality="high" bgcolor="#ffffff" width="498" height="98" name="right_side" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+            </center></td><td align="right" width="499"> <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="498" height="98" id="right_side" align="middle">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="images/right_side.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="images/right_side.swf" quality="high" bgcolor="#ffffff" width="498" height="98" name="right_side" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" class="flashfirebug" id="flashfirebug_1400157330729" allowfullscreen="true" allownetworking="all">
 </object>
 
   </td>
   </tr>
-</table>
-<table align="center" height=360 width="740" cellspacing="0" border="0" cellpadding="0" class="table3">
-   <tr>
+</tbody></table>
+<table align="center" height="360" width="740" cellspacing="0" border="0" cellpadding="0" class="table3">
+   <tbody><tr>
             <td align="left" width="239" bgcolor="#B3B3B3">
-        <table align="center" height=150 width="200" cellspacing="0" cellpadding="0">
-        <tr>
+        <table align="center" height="150" width="200" cellspacing="0" cellpadding="0">
+        <tbody><tr>
 
                 <td valign="top">
 
@@ -108,7 +106,7 @@
 
                 <div align="right" class="style1">26/11/2010</div>
 
-                </a>
+                
                 <div align="left" class="style3">
                 Diverse direkte linker til deler av forumet.<br><br>
 
@@ -122,65 +120,65 @@
 
 <img src="images/guestbook_icon.jpg"><a href="http://4x4norway.no/forum/viewforum.php?f=11" class="style2" alt="Skravlerommet">Skravlerommet</a> <br><br>
 
-<img src="images/guestbook_icon.jpg"><a href="http://4x4norway.no/forum/viewforum.php?f=25" class="style2" alt="Garasjer/Our cars & history">Garasjer/Our cars & history</a> <br><br>
+<img src="images/guestbook_icon.jpg"><a href="http://4x4norway.no/forum/viewforum.php?f=25" class="style2" alt="Garasjer/Our cars &amp; history">Garasjer/Our cars &amp; history</a> <br><br>
 
-<img src="images/guestbook_icon.jpg"><a href="http://4x4norway.no/forum/viewforum.php?f=38" class="style2" alt="Kjøp & salg">Kjøp & salg</a> <br><br>
+<img src="images/guestbook_icon.jpg"><a href="http://4x4norway.no/forum/viewforum.php?f=38" class="style2" alt="Kjop &amp; salg">Kjop &amp; salg</a> <br><br>
 
                 <br>
-                <hr width="180"></hr>
+                <hr width="180">
 
-</tr>
-</table>
+</div></td></tr>
+</tbody></table>
 
 
-<table align="center" height=170 width="200" cellspacing="0" cellpadding="0">
-<tr>
+<table align="center" height="170" width="200" cellspacing="0" cellpadding="0">
+<tbody><tr>
 
         <td height="" width="" valign="top">
-        <hr width="180"></hr>
+        <hr width="180">
 
         <div class="style5" align="left"><img src="images/arrow_icon.jpg">Nyheter</div>
 
                 <div align="right" class="style1">12/03/2008</div>
 
-                <div align="left" class="style2"><a href="http://4x4norway.no/forum/viewtopic.php?f=30&t=554"  border=0<img src="images/smallarrow_icon.jpg"> Les mer her</div>
+                <div align="left" class="style2"><a href="http://4x4norway.no/forum/viewtopic.php?f=30&amp;t=554" border="0<img" src="images/smallarrow_icon.jpg"> Les mer her</a></div><a href="http://4x4norway.no/forum/viewtopic.php?f=30&amp;t=554" border="0<img" src="images/smallarrow_icon.jpg">
                 <br>
                 <div align="left" class="style3">
-                Da har vi satt opp ett eget galleri for våre brukere. Her kan du registrere deg og lage eget galleri. Du kan da kan laste opp bilder,video,lyd ol. Du finner link til galleriet på menyen oppe !
+                Da har vi satt opp ett eget galleri for vare brukere. Her kan du registrere deg og lage eget galleri. Du kan da kan laste opp bilder,video,lyd ol. Du finner link til galleriet pa menyen oppe !
                 <br>
-                <hr width="180"></hr>
+                <hr width="180">
 
-</tr>
-</table>
+</div></a></td></tr>
+</tbody></table>
 
-         <td align="center" width="1" bgcolor="#000000">
-         <td align="center" width="499" bgcolor="#5A6674">
+         </td><td align="center" width="1" bgcolor="#000000">
+         </td><td align="center" width="499" bgcolor="#5A6674">
 
-<table align="center" height=300 width="435" cellspacing="0" cellpadding="15" class="table2">
-<tr>
-        <td valign="top"><div class="style4"><b>Velkommen til 4x4norway</b></div>
+<table align="center" height="300" width="435" cellspacing="0" cellpadding="15" class="table2">
+<tbody><tr>
+        <td valign="top"><div class="style4"><b>Velkommen til<dfn class="dictionary-of-numbers"> 4x</dfn><dfn class="dictionary-of-numbers">4norway</dfn></b></div>
 
         <!--<div class="style7">Velkommen til 4x4norway.no!</div>-->
         <center>
         
-<a href="http://i1134.photobucket.com/albums/m614/4x4norway/ForumPhotos/FORUMFOLDER3/943683_10151587845935918_427263457_n1-1.jpg">                   <span style="text-decoration:none;color:black;"><b>Wolfroad Rena 12-15 September 2013</b></span><br/>
+<a href="http://i1134.photobucket.com/albums/m614/4x4norway/ForumPhotos/FORUMFOLDER3/943683_10151587845935918_427263457_n1-1.jpg">                   <span style="text-decoration:none;color:black;"><b>Wolfroad Rena 5<dfn class="dictionary-of-numbers">-9 Juni </dfn>2014</b></span><br>
        
 
-        <img onload="javascript:adjustRatio(this);" width="510" height="190" src="http://i1134.photobucket.com/albums/m614/4x4norway/ForumPhotos/FORUMFOLDER3/943683_10151587845935918_427263457_n1-1.jpg"></img></a>
-        <br/>
+        <img onload="javascript:adjustRatio(this);" width="100%" height="auto" src="https://scontent-a-fra.xx.fbcdn.net/hphotos-prn1/v/t1.0-9/10341533_10152113…3321039070754955_n.jpg?oh=24f96bb7daf14b123de9e052d6cd9420&amp;oe=54030612"></a>
+        <br>
 
-        <br/>
+        <br>
 <p><span style="font-size:15px">
-Dette er et forum for alle 4x4 entusiaster enten du kjører 4x4bil eller ATV/utv. Vi ønsker å samle flest mulig folk, til turer-treff og felles hygge. vi vil satse stort på felles turer, samt hobby kvelder for alle medlemmer
-  og samarbeid om tekniske løsninger. Melder du deg inn, kan du delta på dette sammen med oss.Velkommen skal du være
-  Hilsen admin 4x4norway.no
-  <br/>
-  (ps: klikk p&aring; bildet for stor versjon)</span>
+Dette er et forum for alle<dfn class="dictionary-of-numbers"> 4x</dfn><dfn class="dictionary-of-numbers">4 entusiaster enten du </dfn>kjorer<dfn class="dictionary-of-numbers"> 4x</dfn><dfn class="dictionary-of-numbers">4bil eller ATV/</dfn>utv. Vi onsker a samle flest mulig folk, til turer-treff og felles hygge. vi vil satse stort pa felles turer, samt hobby kvelder for alle medlemmer
+  og samarbeid om tekniske losninger. Melder du deg inn, kan du delta pa dette sammen med oss.Velkommen skal du vare
+  Hilsen admin<dfn class="dictionary-of-numbers"> 4x</dfn><dfn class="dictionary-of-numbers">4norway</dfn>.no
+  <br>
+  (ps: klikk på bildet for stor versjon)</span>
   
-  <br/>
-  <a href="http://i1134.photobucket.com/albums/m614/4x4norway/Rena.jpg" target="_blank"><img title="trykk for stor versjon" src="http://i1134.photobucket.com/albums/m614/4x4norway/Rena.jpg" width="510" height="408" onload="javascript:adjustRatio(this);" /></a>
+  <br>
+  <a href="http://i1134.photobucket.com/albums/m614/4x4norway/Rena.jpg" target="_blank"><img title="trykk for stor versjon" src="http://i1134.photobucket.com/albums/m614/4x4norway/Rena.jpg" width="510" height="408" onload="javascript:adjustRatio(this);"></a>
   <!--width="497" height="699" -->
-  <br/>
+  <br>
   <span>
     <script type="text/javascript">
 function getInternetExplorerVersion()
@@ -242,13 +240,13 @@ if(getInternetExplorerVersion() != -1)
 }
     </script>
     </span>
-  <br/>
+  <br>
 <!--  <a href="http://i1134.photobucket.com/albums/m614/4x4norway/4x4Edited.jpg" target="_blank">
     <img title="trykk for stor versjon" alt="bilder fra vikingtreffet tidligere vikingtreff!" src="http://imageshack.us/a/img443/2096/4x4edited.jpg" width="510" height="358" onload="javascript:adjustRatio(this);" />
     </a>
   <a href="http://4x4norway.no/forum/viewtopic.php?f=23&t=4525#p33097">Mer info</a>
 -->  
- <img id="bigimageX" alt="bilder fra vikingtreffet tidligere vikingtreff!" src="" width="100%" height="100%" />
+ <img id="bigimageX" alt="bilder fra vikingtreffet tidligere vikingtreff!" src="http://i1116.photobucket.com/albums/k561/nissan4x4forum/Vikingtreff%20Dagaliflyplass%202011/5454175868_b9a525961c_o.jpg" width="100%" height="100%" style="height: auto; width: 100%;">
 
   
   
@@ -422,7 +420,7 @@ RandomImages(true);
 
 
 
-<br/>
+<br>
 <div align="middle" class="style1">
 <!--<br>
 
@@ -430,100 +428,100 @@ RandomImages(true);
 <center>Mer info</center>
 <br>
 -->
-<div align="center" class="style2"><a href="http://www.nissan-global.com/EN/index.html"  border=0<img src="images/smallarrow_icon.jpg"> Nissan global</div>
+<div align="center" class="style2"><a href="http://www.nissan-global.com/EN/index.html" border="0<img" src="images/smallarrow_icon.jpg"> Nissan global</a></div><a href="http://www.nissan-global.com/EN/index.html" border="0<img" src="images/smallarrow_icon.jpg">
 <br>
 
-<div align="center" class="style2"><a href="http://www.nissan.no/"  border=0<img src="images/smallarrow_icon.jpg"> Nissan Norge</div>
+</a><div align="center" class="style2"><a href="http://www.nissan-global.com/EN/index.html" border="0<img" src="images/smallarrow_icon.jpg"></a><a href="http://www.nissan.no/" border="0<img" src="images/smallarrow_icon.jpg"> Nissan Norge</a></div><a href="http://www.nissan.no/" border="0<img" src="images/smallarrow_icon.jpg">
 
 
 
 
-</div>
+</a></div><a href="http://www.nissan.no/" border="0<img" src="images/smallarrow_icon.jpg">
+</a></td>
+</tr>
+</tbody></table>
+
+
+
 </td>
 </tr>
-</table>
-
-
-
-</td>
-</tr>
-</table>
+</tbody></table>
 
 
 
 
 
-<table align="center" height=140 width="740" cellspacing="0" border="0" cellpadding="0" class="table3">
-   <tr>
-            <td valign=center width="239" bgcolor="#7D7D7D">
-        <table align="center" height=100 width="200" cellspacing="0" cellpadding="0">
-        <tr>
+<table align="center" height="140" width="740" cellspacing="0" border="0" cellpadding="0" class="table3">
+   <tbody><tr>
+            <td valign="center" width="239" bgcolor="#7D7D7D">
+        <table align="center" height="100" width="200" cellspacing="0" cellpadding="0">
+        <tbody><tr>
                 <td valign="top">
-                <div align="middle" class="style1">4x4norway.no logo<br><img src="images/logo21322222.png"></div>
+                <div align="middle" class="style1"><dfn class="dictionary-of-numbers">4x</dfn><dfn class="dictionary-of-numbers">4norway</dfn>.no logo<br><img src="images/logo21322222.png"></div>
                 <br>
 
                 <br>
                 <div align="left" class="style3">
 
 
-</tr>
-</table>
+</div></td></tr>
+</tbody></table>
 
 
-          <td valign=center width="1" bgcolor="#000000">
+          </td><td valign="center" width="1" bgcolor="#000000">
 
-            <td valign="top" width="498" bgcolor="#5A6674">
-
-
+            </td><td valign="top" width="498" bgcolor="#5A6674">
 
 
-<table align="center" height=25 width="498" cellspacing="0" cellpadding="0">
-<tr>
+
+
+<table align="center" height="25" width="498" cellspacing="0" cellpadding="0">
+<tbody><tr>
         <td align="left" bgcolor="#B3B3B3" class="style2">Sponsorer
 
-</tr>
+</td></tr>
 
 
 <tr>
         <td align="center" height="1" bgcolor="#000000">
-</table>
+</td></tr></tbody></table>
 
 
 <br>
-<table align="center" height=85 width="435" cellspacing="0" cellpadding="10" border="0" class="table2">
-<tr>
+<table align="center" height="85" width="435" cellspacing="0" cellpadding="10" border="0" class="table2">
+<tbody><tr>
         <td valign="middle">
 
         <center><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="400" height="60" id="Untitled-1" align="middle">
-<param name="allowScriptAccess" value="sameDomain" />
-<param name="movie" value="Untitled-1.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="logos.swf" quality="high" bgcolor="#ffffff" width="400" height="60" name="logos" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="Untitled-1.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="logos.swf" quality="high" bgcolor="#ffffff" width="400" height="60" name="logos" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" class="flashfirebug" id="flashfirebug_1400157330974" allowfullscreen="true" allownetworking="all">
 </object></center>
 
-</tr>
-</table>
+</td></tr>
+</tbody></table>
 
 
   </td>
   </tr>
-</table>
+</tbody></table>
 
 
 
 
-<table align="center" height=30 width="740" cellspacing="0" cellpadding="0" class="table4">
-   <tr>
-            <td align="center" bgcolor="#132ed1"><div align="center" class="style1">Template by<br><a href="http://www.dragon-designz.com/">Dragon Designz</a><br> ©2007
+<table align="center" height="30" width="740" cellspacing="0" cellpadding="0" class="table4">
+   <tbody><tr>
+            <td align="center" bgcolor="#132ed1"><div align="center" class="style1">Template by<br><a href="http://www.dragon-designz.com/">Dragon Designz</a><br> c2007
 
 
 
-  </td>
+  </div></td>
   </tr>
-</table>
+</tbody></table>
 
 
 
 <div style="font-size: 0.8em; text-align: center; margin-top: 1.0em; margin-bottom: 1.0em;">
-All copyright <a href="http://www.4x4norway.no/">4x4norway.no</a>
+All copyright <a href="http://www.4x4norway.no/"><dfn class="dictionary-of-numbers">4x</dfn><dfn class="dictionary-of-numbers">4norway</dfn>.no</a>
 </div>
-</body>
-</html>
+
+</body></html> 
