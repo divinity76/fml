@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
@@ -123,7 +124,7 @@
 
 <img src="images/guestbook_icon.jpg"><a href="http://4x4norway.no/forum/viewforum.php?f=25" class="style2" alt="Garasjer/Our cars & history">Garasjer/Our cars & history</a> <br><br>
 
-<img src="images/guestbook_icon.jpg"><a href="http://4x4norway.no/forum/viewforum.php?f=38" class="style2" alt="Kj & salg">Kj & salg</a> <br><br>
+<img src="images/guestbook_icon.jpg"><a href="http://4x4norway.no/forum/viewforum.php?f=38" class="style2" alt="Kjøp & salg">Kjøp & salg</a> <br><br>
 
                 <br>
                 <hr width="180"></hr>
@@ -145,7 +146,7 @@
                 <div align="left" class="style2"><a href="http://4x4norway.no/forum/viewtopic.php?f=30&t=554"  border=0<img src="images/smallarrow_icon.jpg"> Les mer her</div>
                 <br>
                 <div align="left" class="style3">
-                Da har vi satt opp ett eget galleri for v蚌e brukere. Her kan du registrere deg og lage eget galleri. Du kan da kan laste opp bilder,video,lyd ol. Du finner link til galleriet p・menyen oppe !
+                Da har vi satt opp ett eget galleri for våre brukere. Her kan du registrere deg og lage eget galleri. Du kan da kan laste opp bilder,video,lyd ol. Du finner link til galleriet på menyen oppe !
                 <br>
                 <hr width="180"></hr>
 
@@ -170,11 +171,8 @@
 
         <br/>
 <p><span style="font-size:15px">
-<?php
-if(isset($_REQUEST['test'])){echo 'TEST SIDE.';}
-?>
-Dette er et forum for alle 4x4 entusiaster enten du kjer 4x4bil eller ATV/utv. Vi sker ・samle flest mulig folk, til turer-treff og felles hygge. vi vil satse stort p・felles turer, samt hobby kvelder for alle medlemmer
-  og samarbeid om tekniske lninger. Melder du deg inn, kan du delta p・dette sammen med oss.Velkommen skal du v誡e
+Dette er et forum for alle 4x4 entusiaster enten du kjører 4x4bil eller ATV/utv. Vi ønsker å samle flest mulig folk, til turer-treff og felles hygge. vi vil satse stort på felles turer, samt hobby kvelder for alle medlemmer
+  og samarbeid om tekniske løsninger. Melder du deg inn, kan du delta på dette sammen med oss.Velkommen skal du være
   Hilsen admin 4x4norway.no
   <br/>
   (ps: klikk p&aring; bildet for stor versjon)</span>
@@ -514,7 +512,7 @@ RandomImages(true);
 
 <table align="center" height=30 width="740" cellspacing="0" cellpadding="0" class="table4">
    <tr>
-            <td align="center" bgcolor="#132ed1"><div align="center" class="style1">Template by<br><a href="http://www.dragon-designz.com/">Dragon Designz</a><br> ｩ2007
+            <td align="center" bgcolor="#132ed1"><div align="center" class="style1">Template by<br><a href="http://www.dragon-designz.com/">Dragon Designz</a><br> ©2007
 
 
 
