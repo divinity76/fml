@@ -164,7 +164,7 @@
 <a href="https://docs.google.com/forms/d/1J8Vl5In5p1YB_SLEUQX6nXCvyO6kPKJMuhGe_9fycQ4/viewform">                   <span style="text-decoration:none;color:black;"><b>Wolfroad Rena 5<dfn class="dictionary-of-numbers">-9 Juni </dfn>2014</b></span><br>
        
 
-        <img onload="javascript:adjustRatio(this);" width="100%" height="auto" src="httpshttps://cdn.mediacru.sh/t5cIdi_dOJNN.jpg"></a>
+        <img onload="javascript:adjustRatio(this);" width="100%" height="auto" src="https://cdn.mediacru.sh/t5cIdi_dOJNN.jpg"></a>
         <br>
 
         <br>
